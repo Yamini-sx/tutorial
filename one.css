@@ -1,0 +1,93 @@
+body 
+{
+    background-image: url("https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif");
+    background-size: cover;
+
+}
+
+
+.button
+{
+    text-align: center;
+    background-color:lightseagreen;
+    padding: 10px;
+    overflow: none;
+    border-width: 0px;
+    border-radius: 10px;
+}
+.bg-container
+{
+    background-image: url("https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif");
+    background-size: cover;
+    height: 100vh;
+    margin: 10px;
+}
+/* .text
+{
+     padding:200px; 
+} */
+hr
+{
+   background-color:lightseagreen;
+   width:20%;
+   
+}
+ .Google
+{
+    background-color: black;
+    padding: 10px;
+    border-radius:10px;
+    color: white;
+}
+.chatgpt
+{
+    background-color: black;
+    border-radius:10px;
+    padding: 10px;
+    color: white;
+}
+.W3school
+{
+    background-color: black;
+    border-radius:10px;
+    padding: 10px;
+    color: white;
+}
+.Chrome
+{
+    background-color: black;
+    border-radius:10px;
+    padding: 10px;
+    color: white;
+} 
+.blue
+{
+    background-color:whitesmoke;
+    margin: 100px;
+    padding:100px;
+
+}
+.alternative5
+{
+    background-image: cover;
+    height: 70vh;
+    width: 90vw;
+    margin: 80px;
+    text-align: center;
+}
+.button
+{
+    animation:zoom 1s linear infinite;
+}
+@keyframes zoom
+{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.2);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
